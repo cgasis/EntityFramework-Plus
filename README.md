@@ -1,3 +1,4 @@
+# Git is fun
 # Improve Entity Framework performance and overcome limitations with MUST-HAVE features
 
 ## Library Powered By
